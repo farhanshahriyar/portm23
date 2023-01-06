@@ -11,7 +11,7 @@ const header = {
     role: 'Jr. MERN Stack Developer',
     description:
       'I always want a nice-looking website. I seek cutting-edge tech. User interfaces fascinate me. I have learned to react to javascript. Since studying React in January 2022, I have loved using it on websites for its speed, scalability, and simplicity.',
-      
+
     resume: 'https://drive.google.com/file/d/1m4IsvYJ0KyU3XjeujesR7aOoT6XOUCUz/view',
     social: {
       linkedin: 'https://www.linkedin.com/in/mdfarhanshahriyar18/',
@@ -30,7 +30,7 @@ const header = {
   
       stack: ['ReactJS', 'ExpressJS', 'MongoDB','Firebase'],
       sourceCode: 'https://github.com/farhanshahriyar/bldonorfrontend',
-      livePreview: 'bldonor.netlify.app/',
+      livePreview: 'https://bldonor.netlify.app/',
     },
     {
       name: 'Project 1',
@@ -38,7 +38,7 @@ const header = {
         'Foodies is a site dedicated to quick meals. This shop has a wide selection of tasty salads and other dishes.',
       stack: ['HTML', 'CSS', 'JavaScript'],
       sourceCode: 'https://github.com/farhanshahriyar/foodies',
-      livePreview: 'foodiesbd.netlify.app/',
+      livePreview: 'https://foodiesbd.netlify.app/',
     },
     {
       name: 'Project 2',
