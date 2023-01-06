@@ -10,8 +10,9 @@ const header = {
     name: 'MD FARHAN SHAHRIYAR',
     role: 'Jr. MERN Stack Developer',
     description:
-      'My goal is always to make a website that looks good. Im always on the lookout for cutting-edge technology. I am very interested in the field of user interfaces. Thats why Ive trained myself to respond to javascript. At January 2022, I began studying React, and ever since then, Ive loved putting it to use on websites thanks to its speed, scalability, and ease of use.',
-    resume: 'https://drive.google.com/file/d/17X-KAI6_4Rho0dmxxqv9_gUCkVXjBKAp/view',
+      'I always want a nice-looking website. I seek cutting-edge tech. User interfaces fascinate me. I have learned to react to javascript. Since studying React in January 2022, I have loved using it on websites for its speed, scalability, and simplicity.',
+      
+    resume: 'https://drive.google.com/file/d/1m4IsvYJ0KyU3XjeujesR7aOoT6XOUCUz/view',
     social: {
       linkedin: 'https://www.linkedin.com/in/mdfarhanshahriyar18/',
       github: 'https://github.com/farhanshahriyar',
@@ -73,6 +74,22 @@ const header = {
     },
     {
       name: 'Project 6',
+      description:
+        'A blood donate Chat app, like Bldonor Messanger. Using this program, anyone can send their own chat or text wherever they like. Verified donators can chat each other',
+      stack: ['React', 'ReactBootstrap', 'Nodejs', 'MongoDB'],
+      sourceCode: 'https://github.com/farhanshahriyar/bldonorchatfrontend',
+      livePreview: 'https://bldonorchat.netlify.app/login',
+    },
+    {
+      name: 'Project 7',
+      description:
+        'SheyPizza is a site dedicated to Pizzas. This shop has a wide selection of tasty Veg and Non Veg Pizzas.',
+      stack: ['React', 'ReactBootstrap', 'Nodejs', 'MongoDB'],
+      sourceCode: 'https://github.com/farhanshahriyar/mern-sheypizza',
+      livePreview: '#',
+    },
+    {
+      name: 'Project 8',
       description:
         'A simplistic portfolio of the character RoboCop. Robocop is a guy who enjoys playing video games of all kinds, including those played online. This website, which is dedicated to his gaming career, can be found here.',
       stack: ['HTML', 'CSS'],
